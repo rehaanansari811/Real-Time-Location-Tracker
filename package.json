@@ -1,0 +1,16 @@
+{
+  "name": "realtime-tracker",
+  "version": "1.0.0",
+  "description": "Realtime Tracker is Backend Project which was build by using node.js express.js ejs and socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohd Rehaan Ansari",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "socket.io": "^4.8.0"
+  }
+}
